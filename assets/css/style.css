@@ -109,9 +109,9 @@ textarea {
 */
 
 header {
-
+    background: url(../img/profile_bg.png) right no-repeat;
     background-size: contain;
-    padding: 30px 0;
+    padding: 50px 0;
 }
 header .column_8 {
     right: 33%;
@@ -161,7 +161,7 @@ header .column_4 {
     margin-top: 15px;
 }
 .pod_cast_blk {
-    margin-top: 20px;
+    margin-top: 40px;
     position: relative;
     left: -12px;
     box-shadow: 0px 0px 9px -2px #888;
