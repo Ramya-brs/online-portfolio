@@ -190,7 +190,7 @@ header .column_4 {
 }
 .latst_wrks h2 span {
     width: 230px;
-    height: 6px;
+    height: 5px;
     background: #f2bb16;
     display: block;
     margin: 0 auto;
@@ -198,6 +198,7 @@ header .column_4 {
     left: 50px;
 }
 .latst_wrks h5 {
+    margin-top: 100px;
     font-size: 20px;
     color: #474747;
     font-family: "lato";
@@ -218,6 +219,7 @@ header .column_4 {
     margin-bottom: 10px;
 }
 .latst_wrks p {
+    margin-top: 15px;
     font-size: 18px;
     font-weight: 400;
     color: #333;
